@@ -1,4 +1,4 @@
-# Tomcat Sweep
+# Tomcat Sweeper
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue) ![Batch](https://img.shields.io/badge/Language-Batch-green) ![Automation](https://img.shields.io/badge/Type-Automation-orange) ![Tomcat](https://img.shields.io/badge/Module-Application%20Maintenance-red)
 
@@ -106,4 +106,3 @@ Includes:
 - FILES IN logs/work/temp WILL BE PERMANENTLY DELETED  
 - Ensure the correct BASE_DIR and PORTAS are configured  
 - Validate service names before execution
-- 
